@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ummzlord
-- 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning CyberSecurity
+- 👀 I’m a Data Scientist ..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
